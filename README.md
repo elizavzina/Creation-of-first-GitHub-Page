@@ -1,6 +1,7 @@
 # Несколько фактов обо мне:
+
 ### 1. Мать мейн-куна
-       ![фото лапок](https://disk.yandex.ru/i/Dc_gAL51RbUzQg)
+       ![фото лапок](C:\Users\user\Desktop\My first site\IMG_20240203_112824.jpg)
 
 ### 2. Помогаю людям быть здоровыми и красивыми
        работаю в поставках вспомогательных и косметических веществ
@@ -8,6 +9,6 @@
 ### 3. Увлекаюсь рукоделием и фотографией
        
        вот некоторые работы:
-       ![серьги из бисера](https://disk.yandex.ru/i/4Z_RUt8jB4g5tA)
-       ![фестиваль тыкв в Аптекарском огороде](https://disk.yandex.ru/i/tshF8JW0GDBVEQ)
-       ![Весна в Кусково](https://disk.yandex.ru/i/QKSpfIyRW5CU3Q)
+       ![серьги из бисера](C:\Users\user\Desktop\My first site\IMG_20230819_085849.jpg)
+       ![фестиваль тыкв в Аптекарском огороде](C:\Users\user\Desktop\My first site\IMG_20230916_110627_edit_678640632079398.jpg)
+       ![Весна в Кусково](C:\Users\user\Desktop\My first site\IMG_20250420_172647.jpg)
