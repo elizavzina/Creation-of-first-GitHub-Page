@@ -10,5 +10,5 @@
        
        вот некоторые работы:
        ![серьги из бисера](https://github.com/elizavzina/Creation-of-first-GitHub-Page/blob/main/IMG_20230819_085849.jpg)
-       ![фестиваль тыкв в Аптекарском огороде](C:\Users\user\Desktop\My first site\IMG_20230916_110627_edit_678640632079398.jpg)
+       ![фестиваль тыкв в Аптекарском огороде]([C:\Users\user\Desktop\My first site\IMG_20230916_110627_edit_678640632079398.jpg](https://github.com/elizavzina/Creation-of-first-GitHub-Page/blob/main/IMG_20230916_110627_edit_678640632079398.jpg))
        ![Весна в Кусково](C:\Users\user\Desktop\My first site\IMG_20250420_172647.jpg)
